@@ -1,5 +1,5 @@
 <?php
-function homepage()
+function cours()
 {
 
 

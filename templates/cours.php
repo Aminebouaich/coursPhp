@@ -1,4 +1,4 @@
-<?php $title = "ACCUEIL"; ?>
+<?php $title = "COURS"; ?>
 <?php ob_start(); ?>
 
 
