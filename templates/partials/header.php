@@ -12,7 +12,7 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto py-4 py-lg-0">
                         <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4"
-                                href="../public/index.php">Cours</a></li>
+                                href="../public/index.php?action=cours">Cours</a></li>
                         <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4"
                                 href="../public/index.php?action=addcours">Créer
                                 cours</a></li>

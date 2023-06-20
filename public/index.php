@@ -10,6 +10,9 @@ try {
             var_dump(2);
             addCours();
         } 
+        elseif ($_GET['action'] =='cours'){
+            displayCours();
+        }
     } else{
         var_dump(1);
         homepage();

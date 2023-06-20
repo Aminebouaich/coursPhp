@@ -1,5 +1,5 @@
 <?php
-function cours()
+function displayCours()
 {
 
 
